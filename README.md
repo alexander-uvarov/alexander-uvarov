@@ -6,4 +6,4 @@
 - в 2023 году закончил курс Яндекс.Практикум Аналитик данных
 - сейчас готов приступить к интересной работе по новой профессии
 
-tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, PostgreSQL
+tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, PostgreSQL, Tableau
